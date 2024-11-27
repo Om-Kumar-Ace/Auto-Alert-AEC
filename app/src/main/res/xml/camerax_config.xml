@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<camera:xconfig xmlns:camera="http://schemas.android.com/apk/res-auto">
+    <camera:useCaseGroup>
+        <camera:useCase name="camera2" />
+    </camera:useCaseGroup>
+</camera:xconfig>
